@@ -1,4 +1,4 @@
-# breast-cancer-ml-classifier
+# Breast-Cancer-Classification (Machine Learning)
 
 Comparative analysis of machine learning classifiers for breast cancer diagnosis using the Breast Cancer Wisconsin (Diagnostic) dataset.
 
