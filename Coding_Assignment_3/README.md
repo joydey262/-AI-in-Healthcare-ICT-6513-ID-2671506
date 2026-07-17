@@ -53,6 +53,6 @@ The CNN model was evaluated using multiple performance metrics and visualization
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 
 This project demonstrates the effectiveness of Convolutional Neural Networks for automated oral cancer detection using histopathological images
