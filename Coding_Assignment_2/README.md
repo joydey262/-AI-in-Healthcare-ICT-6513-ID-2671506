@@ -16,18 +16,6 @@ The dataset contains diagnostic measurements of breast cell nuclei and is used t
 
 ---
 
-## Project Features
-
-- Data preparation and preprocessing
-- Missing value verification
-- Feature selection using statistical analysis
-- Feature scaling with StandardScaler
-- Hyperparameter tuning using GridSearchCV
-- Ensemble learning implementation
-- Performance comparison of multiple classifiers
-- Confusion matrix and ROC curve visualization
-
----
 
 ## Machine Learning Models
 
@@ -63,4 +51,4 @@ The models are evaluated using standard classification metrics and visualization
 
 ## 🎯 Conclusion
 
-This project demonstrates the application of adv
+This project demonstrates the application of advanced ensemble learning techniques and model optimization for medical diagnosis.
