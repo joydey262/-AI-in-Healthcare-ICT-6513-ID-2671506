@@ -19,7 +19,7 @@ The dataset contains diagnostic measurements of breast cell nuclei and is used t
 
 - Decision Tree Classifier
 - Gradient Boosting Classifier
-- Support Vector Machine (RBF Kernel)
+- Support Vector Machine
 
 ---
 
