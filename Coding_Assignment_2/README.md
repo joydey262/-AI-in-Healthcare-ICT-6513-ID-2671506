@@ -49,6 +49,6 @@ The models are evaluated using standard classification metrics and visualization
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 
 This project demonstrates the application of advanced ensemble learning techniques and model optimization for medical diagnosis.
