@@ -1,6 +1,6 @@
 # Advanced Ensemble Learning and Evaluation for Cancer Prediction
 
-## Project Overview
+## Overview
 
 This project presents an end-to-end machine learning pipeline for breast cancer prediction using the Breast Cancer Wisconsin (Diagnostic) dataset. The workflow focuses on feature engineering, hyperparameter tuning, ensemble learning, and statistical model evaluation to identify the most effective classification approach.
 
