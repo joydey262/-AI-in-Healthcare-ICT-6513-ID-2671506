@@ -10,8 +10,6 @@ This project presents an end-to-end machine learning pipeline for breast cancer 
 
 **Dataset:** Breast Cancer Wisconsin (Diagnostic)
 
-**Source:** Scikit-learn (`load_breast_cancer`)
-
 The dataset contains diagnostic measurements of breast cell nuclei and is used to classify tumors as **malignant** or **benign**.
 
 ---
