@@ -6,7 +6,7 @@ This project presents an end-to-end machine learning pipeline for breast cancer 
 
 ---
 
-## Dataset Information
+## Dataset
 
 **Dataset:** Breast Cancer Wisconsin (Diagnostic)
 
