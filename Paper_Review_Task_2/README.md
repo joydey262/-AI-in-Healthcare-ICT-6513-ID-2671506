@@ -1,5 +1,5 @@
 <h1 align="center">
-Paper Review Task 2
+Paper Review Task - 2
 </h1>
 
 <h3 align="center">
