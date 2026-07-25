@@ -1,12 +1,23 @@
-# 🏥 AI in Healthcare
-## Paper Review Tasks and Coding Assignments
+<div align="center">
 
-<p align="center">
-  <b>Prepared by</b><br>
-  <b>Joy Kumar Dey</b><br>
-  ID: 2671506<br>
-  M.Sc. in Information and Communication Technology (ICT)
-</p>
+# 🏥 Artificial Intelligence in Healthcare (ICT 6513)
+
+### 📄 Paper Review Task & Coding Assignment
+
+**Submitted by:** **Joy Kumar Dey**  
+**Student ID:** `2671506`  
+**Program:** M.Sc. in ICT
+
+---
+
+![GitHub Repo Stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Academic-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+</div>
+
+---****
 
 ---
 
