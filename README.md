@@ -23,9 +23,13 @@
 
 ## 📖 Repository Overview
 
+<div align="center">
+
 This repository contains all coursework completed for the **AI in Healthcare** course as part of the **M.Sc. in Information and Communication Technology (ICT)** program. It showcases both theoretical and practical applications of Artificial Intelligence in healthcare through coding assignments, research paper reviews, comparative analyses, and technical documentation.
 
 The repository covers a broad range of healthcare AI topics, including machine learning for disease diagnosis, ensemble learning techniques, deep learning for medical image analysis, and systematic literature reviews. Each project demonstrates the complete workflow—from problem identification and data preparation to model development, evaluation, and research analysis—providing practical experience in applying AI techniques to real-world healthcare challenges.
+
+</div>
 
 ---
 
