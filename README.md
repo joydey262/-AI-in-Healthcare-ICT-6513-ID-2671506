@@ -1,67 +1,65 @@
-<div align="center">
-
 # 🏥 AI in Healthcare
+## Paper Review Tasks and Coding Assignments
 
-### 📄 Paper Review Task & Coding Assignment
-
-**Submitted by:** **Joy Kumar Dey**  
-**Student ID:** `2671506`  
-**Program:** M.Sc. in ICT
-
----
-
-![GitHub Repo Stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Academic-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
-</div>
+<p align="center">
+  <b>Prepared by</b><br>
+  <b>Joy Kumar Dey</b><br>
+  ID: 2671506<br>
+  M.Sc. in Information and Communication Technology (ICT)
+</p>
 
 ---
 
-## 📌 Overview
+## 📖 Repository Overview
 
-This repository contains the **Paper Review Task** and **Coding Assignment** for the **AI in Healthcare** course as part of the **M.Sc. in ICT** program.
+This repository contains all coursework completed for the **AI in Healthcare** course as part of the **M.Sc. in Information and Communication Technology (ICT)** program. It showcases both theoretical and practical applications of Artificial Intelligence in healthcare through coding assignments, research paper reviews, comparative analyses, and technical documentation.
 
-### 📂 Repository Structure
+The repository covers a broad range of healthcare AI topics, including machine learning for disease diagnosis, ensemble learning techniques, deep learning for medical image analysis, and systematic literature reviews. Each project demonstrates the complete workflow—from problem identification and data preparation to model development, evaluation, and research analysis—providing practical experience in applying AI techniques to real-world healthcare challenges.
+
+---
+
+# 📂 Repository Structure
 
 ```text
-📦 AI-in-Healthcare
-├── 📁 Paper Review Task
-│   ├── Task 1
-│   ├── Task 2
-│   └── References
+AI-in-Healthcare-ICT-6513-ID-2671506/
 │
-├── 📁 Coding Assignment
-│   ├── Source Code
-│   ├── Dataset
-│   └── Results
+├── 📁 Coding_Assignment_1
+│   ├── Comparative Analysis of ML Classifiers for Medical Diagnosis.ipynb
+│   ├── breast_cancer_wisconsin_dataset.csv
+│   └── README.md
 │
-├── 📁 Images
-├── 📄 README.md
-└── 📄 LICENSE
+├── 📁 Coding_Assignment_2
+│   ├── Advanced_Ensemble_Learning.ipynb
+│   ├── breast_cancer_wisconsin_dataset.csv
+│   └── README.md
+│
+├── 📁 Coding_Assignment_3
+│   ├── Image_Based_Histopathologic_Cancer_Detection.ipynb
+│   └── README.md
+│
+├── 📁 Paper_Review_Task_1
+│   ├── Comparative Analysis Report
+│   ├── Presentation Slides
+│   └── README.md
+│
+├── 📁 Paper_Review_Task_2
+│   ├── Targeted Research Synthesis Report
+│   └── README.md
+│
+└── README.md
 ```
-
-## 📚 Contents
-
-- 📄 Paper Review Task
-- 💻 Coding Assignment
-- 📊 Results & Analysis
-- 📑 References
-
-## 🎯 Course Information
-
-| Item | Details |
-|------|---------|
-| **Course** | AI in Healthcare |
-| **Program** | M.Sc. in ICT |
-| **Student** | Joy Kumar Dey |
-| **Student ID** | 2671506 |
 
 ---
 
-<div align="center">
+## 📚 Repository Contents
 
-**⭐ If you found this repository useful, consider giving it a star!**
+### 💻 Coding Assignments
 
-</div>
+- **Coding Assignment 1:** Comparative Analysis of Machine Learning Classifiers for Breast Cancer Diagnosis
+- **Coding Assignment 2:** Advanced Ensemble Learning and Evaluation for Cancer Prediction
+- **Coding Assignment 3:** Image-Based Histopathological Cancer Detection using Deep Learning
+
+### 📄 Paper Review Tasks
+
+- **Paper Review Task 1:** Comparative Analysis of AI-Based Healthcare Research Papers
+- **Paper Review Task 2:** Targeted Research Synthesis on AI in Healthcare
