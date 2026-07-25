@@ -3,7 +3,5 @@ Paper Review Task 2
 </h1>
 
 <h3 align="center">
-Targeted Research Synthesis:
-<br>
-Balancing Differential Privacy Budgets with Diagnostic Accuracy in Federated Learning for Medical Imaging
+Targeted Research Synthesis: Balancing Differential Privacy Budgets with Diagnostic Accuracy in Federated Learning for Medical Imaging
 </h3>
