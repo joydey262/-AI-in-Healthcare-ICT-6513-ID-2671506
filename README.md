@@ -36,25 +36,25 @@ AI-in-Healthcare-ICT-6513-ID-2671506/
 │
 ├── 📁 Coding_Assignment_1
 │   ├── Comparative Analysis of ML Classifiers for Medical Diagnosis.ipynb
-│   ├── breast_cancer_wisconsin_dataset.csv
+│   ├── breast_cancer_wisconsin_dataset(1).csv
 │   └── README.md
 │
 ├── 📁 Coding_Assignment_2
-│   ├── Advanced_Ensemble_Learning.ipynb
-│   ├── breast_cancer_wisconsin_dataset.csv
+│   ├── Advanced_Ensemble_Learning(1).ipynb
+│   ├── breast_cancer_wisconsin_dataset(1).csv
 │   └── README.md
 │
 ├── 📁 Coding_Assignment_3
-│   ├── Image_Based_Histopathologic_Cancer_Detection.ipynb
+│   ├── Image_Based_Histopathologic_Oral Cancer_Detection_Using_CNNs.ipynb
 │   └── README.md
 │
 ├── 📁 Paper_Review_Task_1
-│   ├── Comparative Analysis Report
-│   ├── Presentation Slides
+│   ├── Paper Review Task_1 (presentation) Joy_2671506 .pptx
+│   ├── Paper_Review _Task_1 (Comparative Analysis of Selected Research Papers) .pdf
 │   └── README.md
 │
 ├── 📁 Paper_Review_Task_2
-│   ├── Targeted Research Synthesis Report
+│   ├── Paper_Review_Task_2 (Targeted Research Synthesis for term paper).pdf
 │   └── README.md
 │
 └── README.md
@@ -72,5 +72,5 @@ AI-in-Healthcare-ICT-6513-ID-2671506/
 
 ### 📄 Paper Review Tasks
 
-- **Paper Review Task 1:** Comparative Analysis of AI-Based Healthcare Research Papers
-- **Paper Review Task 2:** Targeted Research Synthesis on AI in Healthcare
+- **Paper Review Task 1:** Comparative Analysis of Selected Research Papers (Literature Review & Synthesis (AI in Healthcare))
+- **Paper Review Task 2:** Targeted Research Synthesis for Term Paper
